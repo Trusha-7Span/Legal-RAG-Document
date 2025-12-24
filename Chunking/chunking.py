@@ -3,8 +3,10 @@ import re
 import json
 
 # Configuration
-SOURCE_DIR = r"c:\Users\Trusha Khachariya\OneDrive\Desktop\Held Section"
-OUTPUT_FILE = r"c:\Users\Trusha Khachariya\OneDrive\Desktop\Held Section\chunks.json"
+# Use relative paths for portability
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Root of Legal-RAG-Document
+SOURCE_DIR = os.path.join(BASE_DIR, "Held Section") 
+OUTPUT_FILE = os.path.join(BASE_DIR, "Chunking", "chunks.json")
 
 def clean_text(text):
     """
@@ -24,7 +26,6 @@ def split_into_sentences(text):
     sentences = []
     
     # Reassemble
-    current_sent = ""
     for i in range(0, len(parts) - 1, 2):
         sent = parts[i] + parts[i+1] # Attach punctuation
         sentences.append(sent)
@@ -63,15 +64,17 @@ def create_sub_chunks(text, max_chars=1000):
     return chunks
 
 def parse_text_file(filepath):
+    """
+    Generator that parses a single text file and yields chunk objects.
+    """
     filename = os.path.basename(filepath)
-    chunks = []
     
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
     except Exception as e:
         print(f"Error reading {filepath}: {e}")
-        return []
+        return
 
     # Strategy Selection
     has_bullets = '■' in content
@@ -87,52 +90,33 @@ def parse_text_file(filepath):
                 continue
             
             # Find Para ID
-            # We look for [Para ...] sequence. 
-            # Use findall to get all, pick the last one as the block's label if multiple exist.
-            # Regex matches [Para followed by anything not ] until ]
             matches = re.findall(r'(\[Para[^\]]+\])', segment, re.IGNORECASE | re.DOTALL)
-            
             para_id = matches[-1] if matches else "N/A"
             
             # Remove the tag from content to clean it up
             content_text = segment
             if para_id != "N/A":
                 content_text = content_text.replace(para_id, "")
-                # para_id might have newlines in it (e.g. [Para 133 to\n135]), clean it for metadata value
                 para_id = " ".join(para_id.split())
             
             raw_blocks.append((content_text, para_id))
             
     else:
         # Strategy B: Split by [Para ...] tags
-        # Assumes [Para ...] marks the end of a block.
-        # We split keeping the delimiter.
         parts = re.split(r'(\[Para[^\]]+\])', content, flags=re.IGNORECASE | re.DOTALL)
-        
-        # parts[0] is text before first tag
-        # parts[1] is first tag
-        # parts[2] is text after first tag (before second tag)
-        # parts[3] is second tag
-        # ...
         
         current_text = parts[0]
         
-        # We pair text with the FOLLOWING tag.
-        # Loop starts from 1
         for i in range(1, len(parts), 2):
             tag = parts[i]
-            
-            # The current_text belongs to this tag
             para_id = " ".join(tag.split())
             raw_blocks.append((current_text, para_id))
             
-            # Next text chunk
             if i + 1 < len(parts):
                 current_text = parts[i+1]
             else:
                 current_text = ""
                 
-        # Handle trailing text if any (after last tag)
         if current_text.strip():
              raw_blocks.append((current_text, "N/A"))
 
@@ -153,30 +137,44 @@ def parse_text_file(filepath):
                     "para_id": para_id
                 }
             }
-            chunks.append(chunk)
-
-    return chunks
+            yield chunk
 
 def main():
-    all_chunks = []
-    
     print(f"Scanning directory: {SOURCE_DIR}")
     
-    for root, dirs, files in os.walk(SOURCE_DIR):
-        for file in files:
-            if file.lower().endswith('.txt'):
-                fullpath = os.path.join(root, file)
-                print(f"Processing: {file}")
-                file_chunks = parse_text_file(fullpath)
-                all_chunks.extend(file_chunks)
-                
-    print(f"Generated {len(all_chunks)} chunks from all files.")
+    # Check if directory exists
+    if not os.path.exists(SOURCE_DIR):
+        print(f"Error: Source directory not found at {SOURCE_DIR}")
+        return
+
+    # Counter
+    count = 0
     
-    # Save to JSON
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(all_chunks, f, indent=4, ensure_ascii=False)
-        
-    print(f"Chunks saved to: {OUTPUT_FILE}")
+    # Open output file for streaming write
+    try:
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f_out:
+            # We will use JSONL format (one valid JSON object per line)
+            # This is much more memory efficient for large datasets than a single JSON array.
+            
+            # Walk through all files
+            for root, dirs, files in os.walk(SOURCE_DIR):
+                for file in files:
+                    if file.lower().endswith('.txt'):
+                        fullpath = os.path.join(root, file)
+                        print(f"Processing: {file}")
+                        
+                        # Use generator to get chunks one by one
+                        for chunk in parse_text_file(fullpath):
+                            # Dump single chunk as a line
+                            json.dump(chunk, f_out, ensure_ascii=False)
+                            f_out.write("\n")
+                            count += 1
+            
+        print(f"Generated {count} chunks from all files.")
+        print(f"Chunks saved to: {OUTPUT_FILE}")
+
+    except Exception as e:
+        print(f"Fatal Error: {e}")
 
 if __name__ == "__main__":
     main()

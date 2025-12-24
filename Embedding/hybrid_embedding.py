@@ -13,10 +13,44 @@ GOOGLE_KEY = os.getenv("GOOGLE_API_KEY")
 INDEX_NAME = "hybrid-legal-index"
 
 if not PINECONE_KEY or not GOOGLE_KEY:
+    try:
+        # Try loading from local file if env var not set (development mode)
+        # This matches the previous logic of looking in Embedding/.env
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        load_dotenv(os.path.join(base_dir, '.env'))
+        PINECONE_KEY = os.getenv("PINECONE_API_KEY")
+        GOOGLE_KEY = os.getenv("GOOGLE_API_KEY")
+    except:
+        pass
+
+if not PINECONE_KEY or not GOOGLE_KEY:
     raise ValueError("Missing API Keys")
 
+def load_chunks_generator(filepath):
+    """
+    Generator that parses the chunks.jsonl file line by line.
+    This prevents loading the entire dataset into memory (Improvement 3: Scalability).
+    """
+    if not os.path.exists(filepath):
+        print(f"Error: {filepath} not found.")
+        return
+
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.strip():
+                try:
+                    yield json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+
+def get_contextualized_text(chunk):
+    """
+    Helper to format the text for embedding/BM25.
+    """
+    return f"Source: {chunk['metadata']['source']} | {chunk['content']}"
+
 def main():
-    print("Initializing Enhanced Hybrid Embedding Process...")
+    print("Initializing Enhanced Hybrid Embedding Process (Scalable Mode)...")
     
     # 1. Setup Clients
     genai.configure(api_key=GOOGLE_KEY)
@@ -25,7 +59,6 @@ def main():
     # 2. Check Index
     existing_indexes = [i.name for i in pc.list_indexes()]
     if INDEX_NAME not in existing_indexes:
-         # Create if not exists (same logic as before)
          pc.create_index(
             name=INDEX_NAME,
             dimension=768,
@@ -34,59 +67,53 @@ def main():
         )
     index = pc.Index(INDEX_NAME)
     
-    # 3. Load Data
+    # 3. Path Setup
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     json_path = os.path.join(base_dir, 'Chunking', 'chunks.json')
     
-    with open(json_path, 'r', encoding='utf-8') as f:
-        chunks = json.load(f)
-    print(f"Loaded {len(chunks)} chunks.")
-    
-    # 4. Prepare 'Contextualized' Corpus
-    # We prepend the source name to the content so BM25 and Dense Embeddings "see" the filename relevance.
-    print("Contextualizing chunks with source metadata...")
-    contextualized_chunks = []
-    for c in chunks:
-        # Format: "Source: [Filename] | [Original Content]"
-        # This ensures 'Auda' in the query matches 'Auda' in the vector content.
-        enhanced_text = f"Source: {c['metadata']['source']} | {c['content']}"
-        contextualized_chunks.append(enhanced_text)
-
-    # 5. Train BM25 on Enhanced Text
-    print("Training BM25 on contextualized text...")
+    # 4. Train BM25 (Pass 1 over data)
+    print("Pass 1: Training BM25 on contextualized text...")
     bm25 = BM25Encoder()
-    bm25.fit(contextualized_chunks)
+    
+    # We pass a generator to fit(), so it streams data instead of loading a list
+    bm25_corpus_generator = (get_contextualized_text(c) for c in load_chunks_generator(json_path))
+    bm25.fit(bm25_corpus_generator)
     
     bm25_path = os.path.join(base_dir, 'Embedding', 'bm25_params.json')
     bm25.dump(bm25_path)
     print(f"BM25 params saved to {bm25_path}")
     
-    # 6. Generate & Upsert
+    # 5. Generate & Upsert (Pass 2 over data)
+    print("Pass 2: Generating vectors and upserting...")
+    
     batch_size = 50
     vectors = []
     
-    print("Generating vectors...")
-    for i, (chunk, enhanced_text) in enumerate(zip(chunks, contextualized_chunks)):
+    # Reuse generator for second pass
+    chunk_stream = load_chunks_generator(json_path)
+    
+    for i, chunk in enumerate(chunk_stream):
+        enhanced_text = get_contextualized_text(chunk)
         source = chunk['metadata']['source']
         para_id = chunk['metadata']['para_id']
         vector_id = f"{source.replace(' ', '_')}_{i}"
         
         try:
-            # Dense Vector (Google) - Uses Enhanced Text
+            # Dense Vector (Google)
             dense_res = genai.embed_content(
                 model="models/text-embedding-004",
-                content=enhanced_text, # Key Change!
+                content=enhanced_text,
                 task_type="retrieval_document"
             )
             dense_values = dense_res['embedding']
             
-            # Sparse Vector (BM25) - Uses Enhanced Text
+            # Sparse Vector (BM25)
             sparse_values = bm25.encode_documents(enhanced_text) 
             
             # Metadata
             metadata = {
-                "text": chunk['content'], # Store original text for display (clean)
-                "context_text": enhanced_text, # Store enhanced text for debug
+                "text": chunk['content'],
+                "context_text": enhanced_text,
                 "source": source,
                 "para_id": para_id
             }
@@ -99,18 +126,20 @@ def main():
             })
             
             if len(vectors) >= batch_size:
-                print(f"Upserting batch {i+1}...")
+                print(f"Upserting batch ending at {i}...")
                 index.upsert(vectors=vectors)
                 vectors = []
-                time.sleep(0.5)
+                # Slight delay to respect rate limits if needed
+                time.sleep(0.5) 
                 
         except Exception as e:
-            print(f"Error at {i}: {e}")
+            print(f"Error at chunk {i}: {e}")
             
+    # Upsert remaining
     if vectors:
         index.upsert(vectors=vectors)
         
-    print("Success: Hybrid Index Updated with Context Awareness.")
+    print("Success: Hybrid Index Updated (Memory Optimized).")
 
 if __name__ == "__main__":
     main()
