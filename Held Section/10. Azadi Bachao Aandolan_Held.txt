@@ -1,0 +1,150 @@
+HELD
+ 
+PURPOSE AND CONSEQUENCE OF  DOUBLE TAXA TION AVOIDANCE CONVENTION
+The judicial consensus in India has been that section 90 is specifically intended to enable and empower the
+Central Government to issue a notification for implementation of the terms of a double taxation avoidance
+agreement. When that happens, the provisions of such an agreement, with respect to cases to which wher e
+they apply , would operate even if inconsistent with the provisions of the Income-tax Act. If it was not the
+intention of the Legislatur e to make a departur e from the general principle of chargeability to tax under
+section 4 and the general principle of ascertainment of total income under section 5 of the Act, then there was
+no purpose in making those sections "subject to the provisions of the Act". The very object of grafting the said
+two sections with the said clause is to enable the Central Government to issue a notification under section 90
+towar ds implementation of the terms of the DTAs which would automatically override the provisions of the
+Income-tax Act in the matter of ascertainment of chargeability to income tax and ascertainment of total
+income, to the extent of inconsistency with the terms of the DT AC. [Para 26]
+The contention of the respondents, which weighed with the High Court, viz., that the impugned circular No.
+789, is inconsistent with the provisions of the Act, is a total non sequitur . Circular No. 789 is a circular within
+the meaning of section 90; therefore, it must have the legal consequences contemplated by sub-section (2) of
+section 90. In other words, the circular shall prevail even if inconsistent with the provisions of Income-tax Act,
+1961 insofar as assessees cover ed by the provisions of the DTAC are concerned. There was no merit in the
+contention that the delegate of a legislative power cannot exercise the power of exemption in a fiscal statute.
+[Paras 27 & 29]
+Section 90 enables the Central Government to enter into a DTAC with the foreign Government. When the
+requisite notification has been issued thereunder , the provisions of sub-section (2) of section 90 spring into
+operation and an assessee who is cover ed by the provisions of the DTAC is entitled to seek benefits
+thereunder , even if the pr ovisions of the DT AC ar e inconsistent with the pr ovisions of Act. [Para 30]
+STARE DECISIS
+As observed in Mishri Lal v. Dhirendra Nath [1999] 4 SCC 11 even if the High Courts have consistently taken
+an erroneous view, it would be worthwhile to let the matter rest, since large number of parties have modulated
+their legal r elationship based on this settled position of law . [Para 32]
+VALIDITY  OF CIRCULAR NO. 789
+While commenting adversely upon the validity of the impugned circular , the High Court said "that the circular
+itself does not show that the same has been issued under section 119; only in a case wher e the circular is
+issued under section 119, the same would be legally binding on the revenue. The circular does not deal with
+the power of the ITO to consider the question as to whether although appar ently  a company is incorporated in
+Mauritius but whether the company is also a resident of India and/or not a resident of Mauritius at all." It is
+trite law that as long as an authority has power , which is traceable to a source, the mere fact that source of
+power is not indicated in an instrument does not render the instrument invalid. As long as the circular
+emanates from the CBDT  and contains orders, instructions or directions pertaining to proper administration
+of the Act, it is relatable to the source of power under section 119 irrespective of its nomenclatur e. The High
+Court was not justified in reading the circular as not complying with the provisions of section 119. The
+circular falls well within the parameters of the powers exercisable by the CBDT  under section 119. [Paras 42
+& 43]12/16/25, 12:11 PM
+2/35
+The only restriction on the power of the CBDT  is to prevent it from interfering with the course of assessment
+of any particular assessee or the discr etion of the Commissioner of Income-T ax (Appeals). The Circular No.
+789 does not in any way crib, cabin or confine the powers of the Assessing Officer with regard to any
+particular assessment. It merely formulates broad guidelines to be applied in the matter of assessment of
+assessees cover ed by the pr ovisions of the DT AC. [Paras 45 & 49]
+The circular does not in any way takes away or curtail the jurisdiction of the Assessing Officer to assess the
+income of the assessee befor e him. Therefore, it is erroneous to say that the impu gned Circular No. 789, dated
+13-4-2000 is ultra vires the provisions of section 119. The powers conferr ed upon the CBDT  by sub-sections
+(1) and (2) of Section 1 19 ar e wide enough to accommodate such a cir cular . [Para 50]
+IS DT AC BAD FOR EXCESSIVE DELEGA TION
+The question whether a particular delegated legislation is in excess of the power of the supporting legislation
+conferr ed on the delegate, has to be determined with regard not only to specific provisions contained in the
+relevant statute conferring the power to make rule or regulation, but also the object and purpose of the Act as
+can be gather ed from the various provisions of the enactment. It would be wholly wrong for the Court to
+substitute its own opinion as to what principle or policy would best serve the objects and purposes of the Act,
+nor is it open to the Court to sit in judgment of the wisdom, the effectiveness or otherwise of the policy , so as
+to declar e a regulation to be ultra vires merely on the ground that, in view of the Court, the impugned
+provision will not help to carry thr ough the object and purposes of the Act. [Para 52]
+Thus, it is not right to say that the impugned circular amounts to impermissible delegation of legislative
+power . That the amendment made in section 90 was intended to empower the Government to enter into
+agreement with foreign Government, if necessary , for relief from or avoidanc e of double taxation, is also
+made clear by the Finance Minister in his Budget Speech, 1953-54.
+IS THE DTAC BETWEEN INDIA  AND MAURITIUS ILLEGAL  & ULTRA  VIRES POWERS OF
+CENTRAL  GOVERNMENT  UNDER SECTION 90 ?
+One cannot accept the contention of the respondents that the DTAC with Mauritius is ultra vires the powers of
+the Central Government under section 90 on account of its susceptibility to 'treaty shopping' on behalf of the
+residents of thir d countries.
+There was no merit in the contention that avoidance of double taxation can arise only when tax is actually
+paid in one of the Contracting States. [Para 96]
+TREA TY SHOPPING - IS IT  ILLEGAL  ?
+The respondents vehemently urged that the offshor e companies had been incorporated under the laws of
+Mauritius only as Shell companies, which carry on no business therein, and were incorporated only with the
+motive of taking undue advantage of the DTAC between India and Mauritius. They also urged that 'treaty
+shopping' is both unethical and illegal and amounts to a fraud on the treaty and that instant Court must be
+astute to inter dict all attempts at tr eaty shopping. [Para 102]
+'Treaty shopping' is a graphic expression used to describe the act of a resident of a third country taking
+advantage of a fiscal treaty between two Contracting States. The weighty recommendations of the Working
+Group on Non-Resident Taxation are again about what the law ought to be, and a pointer to the Parliament
+and the Executive for incorporating suitable limitation provisions in the treaty itself or by domestic
+legislation. This per se  does not r ender an attempt by r esident of a thir d party to take advantage of the existing
+provisions of the DT AC illegal. [Paras 103 & 1 14]
+The recommendations of the Working Group of the JPC are intended for Parliament to take appropriate
+action. The JPC might have noticed certain consequences, intended or uninte nded, flowing from the DTAC
+and has made appropriate recommendations. Based on them, it is not possible  for the court to say that the
+DTAC or the impugned circular are contrary to law, nor would it be possible to interfer e with either of them
+on the basis of the r eport of the JPC. [Para 1 19]
+The principles adopted in interpr etation of treaties are not the same as those in interpr etation of statutory
+legislation. [Para 120]
+The respondents strenuously criticized the act of incorporation by FIIs under the Mauritian Act as a 'sham'
+and 'a device' actuated by improper motives. They contended that the Court should interdict such12/16/25, 12:11 PM
+3/35
+arrangements, and, as if by waving a magic wand, bring about a situation wher e the incorporation becomes
+non est. For this they heavily rely on the judgment of the Constitution Bench of the Supreme Court in
+McDowell & Co. Ltd. v. CTO [1985] 154 ITR 148/22 T axman 1 1. [Para 126]
+RULE IN McDOWELL
+Far from being exorcised in its country of origin, IRC v. Duke of Westminster [1936] AC 1 continues to be
+alive and kicking in England. Inter estin gly, even in McDowell , though Chinnappa Reddy , J., dismisse d the
+observation of J.C. Shah,J. in CIT v. A. Raman & Co. [1968] 67 ITR 11 (SC)  based on Duke of Westminster's
+case ( supra ) and IRC v. Fisher's Executors [1926] AC 395, it does not appear that the rest of the Judges of
+the Constitutional Bench contributed to this radical thinking. [Para 130]
+The basic assumption made in the judgment of Chinnappa Reddy , J. in McDowell & Co. Ltd.'s case (supra )
+that the principle in Duke of Westminster's case (supra ) has been departed from subsequently by the House of
+Lords in England, is not corr ect. [Para 131]
+One cannot agree with the view that Duke of Westminster's case (supra) is dead, or that its ghost has been
+exorcised in England. The House of Lords does not seem to think so, the princ iple in Duke of Westminster's
+case (supra) is very much alive and kicking in the country of its birth. And as far as India concerned, the
+observations of Shah, J., in A. Raman & Co. (supra ) are very much r elevant even today . [Para 132]
+One may usefully refer to the judgment of the Madras High Court in M.V.Valliappan v. CIT [1988] 170 ITR
+238/ 37 Taxman 46which has rightly concluded that the decision in McDowell's Co. Ltd.'s case (supra)
+cannot be read as laying down that every attempt at tax planning is illegitimate and must be ignor ed, or that
+every transaction or arrangement which is perfectly permissible under law, which has the effect of reducing
+the tax burden of the assessee, must be looked upon with disfavour . Though the Madras High Court had
+occasion to refer to the judgment of the Privy Council in IRC v. Challenge Corpn. Ltd. [1987] 2 WLR 24, and
+did not have the benefit of the House of Lords's pronouncement in Craven v. White [1988] 3 All ER 495, the
+view taken by the Madras High Court appears to be corr ect. [Para 132]
+Not only is the principle in Duke of Westminster's case (supra ) alive and kicking in England, but it also
+seems to have acquir ed judicial benediction of the Constitutional Bench in India, notwithstanding the
+temporary turbulence cr eated in the wake of McDowell & Co. Ltd.'s  case ( supra ). [Para 135]
+In Waman Rao v. Union of India [1981] 2 SCC 362 and Minerva Mills Ltd. v. Union of India [1980] 3 SCC
+625 the Court consider ed the import of the word "device' with reference to Article 31B which provides that the
+Acts and Regulations specified in Ninth Schedule shall not be deemed to be void or even to have become void
+on the ground that they are inconsistent with the Fundamental Rights. The use of the word 'device' was not
+pejorative, but to describe a pr ovision of law intended to pr oduce a certain legal r esult. [Para 143]
+If the Court finds that notwithstanding a series of legal steps taken by an assessee, the intended legal result
+has not been achieved, the Court might be justified in overlooking the intermediate steps, but it would not be
+permissible for the Court to treat the intervening legal steps as non est based upon some hypothetical
+assessment of the 'real motive' of the assessee. The court must deal with what is tangible in an objective
+manner and cannot affor d to chase a will-o'-the-wisp.
+The judgment of the Privy Council in Bank of Chettinad Ltd. v. CIT [1940] 8 ITR 522 (PC) , wholeheartedly
+approving the dicta in the passage from the opinion of Lord Russel in Duke of Westminster's case (supra),
+was the law in India when the Constitution came into force. This was the law in force then, which continued
+by reason of Article 372. Unless abrogated by an Act of Parliament, or by a clear pronouncement of the
+Court, this legal principle would continue to hold good. Having anxiously scanned McDowell & Co. Ltd.'s
+case (supra), one finds no reference therein to having dissented from or overruled the decision of the Privy
+Council in Bank of Chettinad's case (supra). If any, the principle appears to have been reiterated with
+approval by the Constitutional Bench of the Court in Mathuram Agrawal v. State of Madhya Pradesh [1999] 8
+SCC 667. Thus, one cannot accept the contention of the respondents that there has been a very drastic change
+in the fiscal jurisprudence, in India, as would entail a departur e. From Duke of Westminster's case (supra) to
+Bank of Chettinad's case (supra) to Mathuram Agrawal's case (supra), despite the hiccups of McDowell , the
+law has r emained the same. [Para 145]
+One could not accept the submission that an act which is otherwise valid in law can be treated as non est
+merely on the basis of some underlying motive supposedly resulting in some economic detriment or prejudice
+to the national inter ests, as per ceived by the r espondents. [Para 146]12/16/25, 12:11 PM
+4/35
+In the result, the Delhi High Court erred on all counts in quashing the impugned circular . The judgment under
+appeal was set aside and it was declar ed that the Circular No. 789, dated 13.4.2000 was valid and
+efficacious. [Para 147]

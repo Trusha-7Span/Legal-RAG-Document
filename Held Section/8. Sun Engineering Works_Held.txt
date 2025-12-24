@@ -1,0 +1,140 @@
+HELD
+ 
+The orders for the assessment years 1960-61 and 1961-62 were made after hearing the authorised
+representative of the assessee and since  the returns had been filed beyond time, the assessment proceedings
+terminated in 'no demand'. As appar ently there was no taxable income, the losses were not directed to be set
+off or carried forwar d by the ITO. Even if it was assumed for the sake of argument that the procedur e adopted
+by the ITO in dealing with the 'loss returns' was not proper, the order of the ITO was not set aside in appeal
+by the AAC and no further steps were taken by the assessee to question the order of the ITO. Those orders
+had, in fact and in law, become final. Thus, by the order dated 12-12-1962, the assessment proceedings had
+been concluded and with the dismissal of the appeals against that order, the order of the ITO dated 12-12-
+1962 had acquir ed finality . The High Court clearly fell in error in holding that in the assessment proceedings
+there had been no final determination of losses for the relevant year and in assuming as if the 'loss return' had
+not been finally disposed of or was still open. The ITO had disposed of the assessment proceedings accepting
+the plea of the assessee that for the relevant year it had no income and that is why the proceedings were filed
+as 'No demand'. The order of assessment had, thus, become final on the concl usion of the proceedings and
+dismissal of the appeal.
+Further , to judge whether the assessee could claim set off, not granted in the original assessment proceedings,
+by raising that plea once again in the reassessment proceedings under section 147, the assessing officer has
+been vested with the power to 'assess or reassess' the escaped income of an assessee. The use of the
+expression 'assess or reassess such income or recompute the loss or depreciat ion allowance' in section 147
+after the conditions for reassessment are satisfied, is only relatable to the preceding expression in clauses (a)
+and (b) viz., 'escaped assessment'. The term 'escaped assessment' includes both 'non-assessment' as well as
+'under assessment'. Income is said to have 'escaped assessment' within the meaning of this section when it has
+not been charged in the hands of an assessee in the relevant year of assessment. The expression 'assess' refers
+to a situation wher e the assessment of the assessee for a particular year is, for the first time, made by
+resorting to the provisions of section 147 because the assessment had not been made in the regular manner
+under the Act. The expression 'reassess' refers to a situation wher e an assessment has already been made but
+the ITO has, on the basis of information in his possession, reason to believ e that there has been under
+assessment on account of the existence of any of the grounds contemplated by the provisions of section
+147(b), read with the Explanation (I) thereto. The principle laid down by the Supreme Court in V.
+Jaganmohan Rao v. CIT [1970] 75 ITR 373 (SC)  therefore, is only to the extent that once an assessment is
+validly reopened by issuance of notice under section 34 of the 1922 Act (corr esponding to section 147 of the
+1961 Act), the previous under -assessment is set aside and the ITO has the jurisdiction and duty to levy tax on
+the entire income that had escaped assessment during the previous year. What is set aside is, thus, only the
+previous under -assessment and not the original assessment proceedings. An order made in relation to the
+escaped turnover does not affect the operative force of the original assessment, particularly if it has acquir ed
+finality , and the original order retains both its character and identity . It is only in cases of 'under -assessment'
+based on clauses (a ) to (d) of Explanation (I) to section 147, that the assessment of tax due has to be
+recomputed on the entire taxable income. The judgment in Jaganmohan Rao's case (supra) therefore, cannot
+be read to imply as laying down that in the reassessment proceedings validly initiated the assessee can seek
+reopening of the whole assessment and claim credit in respect of items finally concluded in the original
+assessment. The assessee cannot claim recomputation of the income or redoing of an assessment and be
+allowed a claim which he either failed to make or which was otherwise rejected at the time of original
+assessment, which has since acquir ed finality . Of course, in the reassessment proceedings it is open to an
+assessee to show that the income alleged to have escaped assessment has in truth and in fact not escaped
+assessment and that the same had been shown under some inappr opriate head in the original return, but to
+read the judgment in V. Jaganmohan Rao's case (supra ) as if laying down that reassessment wipes out the
+original assessment and that reassessment is not only confined to 'escaped assessment' or 'under -assessment'
+but to the entire assessment for the year and start the assessment proceedings de novo giving right to an
+assessee to reagitate matters which he had lost during the original assessment proceeding, which had
+acquir ed finality , is not only erroneous but also against the phraseology of section 147 and the object of
+reassessment proceedings. Such an interpr etation would be reading that judgment totally out of context in
+which the questions ar ose for decision in that case.
+It is neither desirable nor permissible to pick out a word or a sentence from the judgment of the Court,
+divor ced from the context of the question under consideration and treat it to be the complete 'law' declar ed by12/16/25, 12:09 PM
+2/16
+the Court. The judgment must be read as a whole and the observations from the judgment have to be
+consider ed in the light of the questions which were befor e the Court. A decision of the Court takes its colour
+from the questions involved in the case in which it is render ed and while applying the decision to a latter case,
+the Courts must carefully try to ascertain the true principle laid down by the decision of the Court and not to
+pick out words or sentences from the judgment, divor ced from the context of the questions under consideration
+by the Court, to support their pr oceedings.
+Section 147, although part of a taxing statute, imposes no charge on the subject but deals merely with the
+machinery of assessment and in interpr eting a provision of that kind, the rule is that construction should be
+preferr ed which makes the machinery workable. Since the proceedings under section 147 are for the benefit of
+the revenue and not an assessee and are aimed at gathering the 'escaped income' of an assessee, the same
+cannot be allowed to be converted as 'revisional' or 'review' proceedings at the instance of the assessee,
+thereby making the machinery unworkable.
+Further , in proceedings under section 147 the ITO may bring to charge items of income which had escaped
+assessment other than or in addition to that item or items, which have led to the issuance of notice under
+section 148 and wher e reassessment is made under section 147 in respect of income which has escaped tax,
+the ITO's jurisdiction is confined to only such income which has escaped tax or has been under -assessed and
+does not extend to revising, reopening or reconsidering the whole assessment or permitting the assessee to
+reagitate questions which have been decided in the original assessment proceedings. It is only the under -
+assessment which is set aside and not the entire assessment when reassessment proceedings are initiated. The
+ITO cannot make an order of reassessment inconsistent with the original order of assessment in respect of
+matters which are not the subject-matter of proceedings under section 147. An assessee cannot resist validly
+initiated reassessment proceedings unde r this section merely by showing that other income which had been
+assessed originally was at too high a figur e except in cases under section 152(2).
+The words 'such income' in section 147 clearly refer to the income which is chargeable to tax but has escaped
+assessment and the ITO's jurisdiction under the section is confined only to such income which has escaped
+assessment. It does not extend to reconsidering generally the concluded earlier assessment Claims which
+have been disallowed in the original assessment proceeding cannot be perm itted to be reagitated on the
+assessment being reopened for bringing to tax certain income which had escaped assessment because the
+contr oversy on reassessment is confined to matters which are relevant only in respect of the income which had
+not been brought to tax during the course of the original assessment. A matter not agitated in the concluded
+original assessment proceedings also cannot be permitted to be agitated in the reassessment proceedings
+unless relatable to the item sought to be taxed as 'escaped income'. Indeed, in the reassessment proceedings
+for bringing to tax items which had escaped assessment, it would be open to an assessee to put forwar d claims
+for deduction of any expenditur e in respect of that income or the non-taxability of the items at all. Keeping in
+view the object and purpose of the proceedings under section 147 which are for the benefit of the revenue and
+not an assessee, an assessee cannot be permitted to convert the reassessment proceedings on his appeal or
+revision, in disguise, and seek relief in respect of items earlier rejected or claim relief in respect of items not
+claimed in the original assessment proceedings, unless relatable to 'escaped income', and reagitate the
+concluded matters. Even in cases wher e the claims of the assessee during  the course of reassessment
+proceedings relating to the escaped assessment are accepted, still the allowance of such claims has to be
+limited to the extent to which they reduce the income to that originally assessed . The income for purposes of
+'reassessment' cannot be r educed beyond the income originally assessed.
+In the instant case, the Tribunal rightly found that the loss which the assessee wanted to be set off against the
+'escaped income' could not be allowed to be so set-off because in the original assessment proceedings no 'set
+off was claimed or permitted and the original assessment had acquir ed finality when the appeal against the
+order of assessment failed befor e the AAC and the assessee took no further steps to agitate the issue. The
+Tribunal was also right in concluding that the items which the assessee wanted to be taken into account in the
+proceedings under section 147 were unconnected with the escapement of incom e. The High Court clearly fell
+in error in holding otherwise. Since the original assessment had been concluded finally against the assessee,
+it was not permissible for the assessee in the reassessment proceedings to seek a review/r evision of the
+concluded assessment for the purpose of computation of the escaped income. The High Court clearly fell in
+error by permitting the assessee to reagitate, in the reassessment proceedings under section 147(a ) the
+finally-concluded assessment proceedings and to grant to it relief in respect of items not only earlier rejected,
+but also unconnected with the escapeme nt of income by assuming as if the original assessment had not been
+concluded or was 'still open'.12/16/25, 12:09 PM
+3/16
+Therefore, in the reassessment proceedings, it was not open to the assessee to seek a review of the concluded
+item, unconnected with the escapement of income, for the purpose of computation of the escaped income.
+Decision of the High Court r eversed.
+JUDICIAL  ANAL YSIS
+ 
+The principle laid down by this Court in V. Jaganmohan Rao v. CIT/CEPT  [1970] 75 ITR 373 (SC) , is only to
+the extent that once an assessment is validly reopened by issuance of notice under section 34 of the Indian
+Income-tax Act, 1922 (corresponding to section 147 of the 1961 Act) the previous under -assessment is set
+aside and the ITO has the jurisdiction and duty to levy tax on the entire income that had escaped assessment
+during the previous year .
+The judgment in V. Jaganmohan Rao's case (supra ), therefore, cannot be read to imply as laying down that in
+the reassessment proceedings validly initiated the assessee can seek reopening of the whole assessment, and
+claim credit in respect of items finally concluded in the original assessment.
+It would be seen that whereas in the case of Anglo-Fr ench Textile Co. Ltd. v. CIT [1953] 23 ITR 82 (SC)  the
+question as to the rights of an assessee to claim 'redoing', 'revising' or 'recomputing' entire income during the
+reassessment proceedings was left open, that question did not come up for consideration in the case of Dy.
+CCT v. H.R. Sri Ramulu [1977] 39 STC 177 (SC) or CST v. H.M. Esufali H.M. Abdulali [1973] 32 STC 77
+(SC) or even in V. Jaganmohan Roa's case (supra ). Some of the High Courts, therefore, fell in error in reading
+those judgments, divorced from the context in which the precise questions came up for consideration in those
+cases, and to hold that the assessee could 'reagitate' the concluded issues and claim relief in respect of items,
+finally concluded in the original assessm ent proceedings, during the reassessment proceedings, unconnected
+with the escapement of income. We cannot, therefore, approve the broad propositions laid in that regard in Dy.
+Commissioner v. Indian Refrigeration Industries (P.) Ltd. [1980] 46 STC 264 (Mad.), CIT v. Ramsevak Paul
+[1977] 110 ITR 527 (Cal.) , CIT v. Assam Oil Co. Ltd. [1982] 133 ITR 204 /[1981] 6 Taxman 251 (Cal.) , CIT
+v. Standar d Motor Products of India Ltd. [1983] 142 ITR 877 / 13 Taxman 269 (Mad.) , CIT v. Rangnath
+Bangur [1984] 149 ITR 487 /[1985] 20 Taxman 72 (Raj.) , State Bank of Hyderabad v. CIT [1988] 171 ITR
+232/[1987] 34 Taxman 515 (AP)  and CIT v. Indian Rare Earth Ltd. [1990] 181 ITR 22/ 48 Taxman 183
+(Bom.) (TB)

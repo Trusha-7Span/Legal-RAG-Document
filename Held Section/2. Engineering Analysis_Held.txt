@@ -1,0 +1,190 @@
+HELD
+ 
+■ Once a DTAA applies, the provisions of the Income-tax Act can only apply to the extent that they are
+more beneficial to the assessee and not otherwise. Further , by Explanation 4 to section 90 of the Income-
+tax Act it has been clarified by the Parliament that where any term is defined in a DTAA, the definition
+contained in the DTAA is to be looked at. It is only where there is no such definition that the definition in
+the Income-tax Act can then be applied. [Para 26]
+The Copyright Act, 1957
+■ The making of copies or adaptation of a computer programme in order to utilise the said computer
+programme for the purpose for which it was supplied, or to make up back-u p copies as a temporary
+protection against loss, destruction or damage so as to be able to utilise the computer programme for the
+purpose for which it was supplied, does not constitute an act of infringement of copyright under section
+52(1)( aa) of the Copyright Act. In short, what is referred to in section 52(1)( aa) would not amount to
+reproduction so as to amount to an infringement of copyright.
+■ Section 52(1)( ad) is independent of section 52(1)( aa) of the Copyright Act and states that the making of
+copies of a computer programme from a personally legally obtained copy for non-commercial personal
+use would not amount to an infringement of copyright. However , it is not possible to deduce from this
+what is sought to be deduced by the Additional Solicitor General, namely , that if personally legally
+obtained copies of a computer programme are to be exploited for commercial use, it would necessarily
+amount to an infringement of copyright. Section 52(1)( ad) of the Copyright Act cannot be read to negate
+the effect of section 52(1)( aa), since it deals with a subject matter that is separate and distinct from that
+contained in section 52(1)( aa) of the Copyright Act. [Paras 38 & 39]
+End-user licence agreements and distribution agreements
+■ A reading of the distribution agreement between parties would show that what is granted to the distributor
+is only a non-exclusive, non-transferable licence to resell computer software, it being expressly stipulated
+that no copyright in the computer programme is transferred either to the distributor or to the ultimate end-
+user. This is further amplified by stating that apart from a right to use the computer programme by the
+end-user himself, there is no further right to sub-licence or transfer , nor is there any right to reverse-
+engineer , modify , reproduce in any manner otherwise than permitted by the licence to the end-user . What
+is paid by way of consideration, therefore, by the distributor in India to the foreign, no-resident
+manufacturer or supplier , is the price of the computer programme as goods, either in a medium which
+stores the software or in a medium by which software is embedded in hardware, which may be then
+further resold by the distributor to the end-user in India, the distributor making a profit on such resale.
+Importantly , the distributor does not get the right to use the product at all. [Para 45]
+■ When it comes to an end-user who is directly sold the computer programme, such end-user can only use it
+by installing it in the computer hardware owned by the end-user and cannot in any manner reproduce the
+same for sale or transfer , contrary to the terms imposed by the EULA. [Para 46]
+■ In all these cases, the 'licence' that is granted vide the EULA, is not a licence in terms of section 30 of the
+Copyright Act, which transfers an interest in all or any of the rights contained in sections 14(a) and 14(b)
+of the Copyright Act, but is a 'licence' which imposes restrictions or conditions for the use of computer
+software. Thus, it cannot be said that any of the EULAs in question are referable to section 30 of the
+Copyright Act, inasmuch as section 30 Copyright Act speaks of granting an interest in any of the rights
+mentioned in sections 14(a) and 14(b) of the Copyright Act. The EULAs in all the appeals do not grant12/16/25, 11:56 AM
+2/83
+any such right or interest, least of all, a right or interest to reproduce the computer software. In point of
+fact, such reproduction is expressly interdicted, and it is also expressly stated that no vestige of copyright
+is at all transferred, either to the distributor or to the end-user . A simple illustration to explain the aforesaid
+position will suffice. If an English publisher sells 2000 copies of a particular book to an Indian distributor ,
+who then resells the same at a profit, no copyright in the aforesaid books is transferred to the Indian
+distributor , either by way of licence or otherwise, inasmuch as the Indian distributor only makes a profit
+on the sale of each book. Importantly , there is no right in the Indian distributor to reproduce the aforesaid
+book and then sell copies of the same. On the other hand, if an English publisher were to sell the same
+book to an Indian publisher , this time with the right to reproduce and make copies of the aforesaid book
+with the permission of the author , it can be said that copyright in the book has been transferred by way of
+licence or otherwise, and what the Indian publisher will pay for, is the right to reproduce the book, which
+can then be characterised as royalty for the exclusive right to reproduce the book in the territory
+mentioned by the licence. [Para 47]
+■ What is 'licensed' by the foreign, non-resident supplier to the distributor and resold to the resident end-
+user, or directly supplied to the resident end-user , is in fact the sale of a physical object which contains an
+embedded computer programme, and is therefore, a sale of goods. [Para 52]
+Definition of royalty in the DT AAs vis-a-vis the Income-tax Act
+■ Firstly , it will be seen that when article 12 of the India-Singapore DTAA defines the term 'royalties' in
+sub-article (3) thereof, it does so stating that such definition is exhaustive - it uses the expression 'means'.
+Secondly , the term 'royalties' refers to payments of any kind that are received as a consideration for the
+use of or the right to use any copyright in a literary work. As opposed to this, the definition contained in
+Explanation  2 to section 9(1)( vi), of the Income-tax Act is wider in at least three respects:
+i. It speaks of 'consideration', but also includes a lump-sum consideration which would not amount to
+income of the recipient char geable under the head 'capital gains';
+ii. When it speaks of the transfer of 'all or any rights', it expressly includes the granting of a licence in
+respect thereof; and
+iii. It states that such transfer must be 'in respect of' any copyright of any literary work. [Para 63]
+■ However , even where such transfer is 'in respect of' copyright, the transfer of all or any rights in relation
+to copyright is a sinequanon under Explanation  2 to section 9(1)( vi) of the Income-tax Act. In short, there
+must be transfer by way of licence or otherwise, of all or any of the rights mentioned in section 14(b) with
+section 14( a) of the Copyright Act. [Para 64]
+Royalty under the Income-tax Act
+■ Even if one were to consider the ambit of 'royalty' only under the Income-tax Act on the footing that none
+of the DTAAs apply to the facts of these cases, the definition of royalty that is contained in Explanation  2
+to section 9(1)( vi) of the Income-tax Act would make it clear that there has to be a transfer of 'all or any
+rights' which includes the grant of a licence in respect of any copyright in a literary work. The expression
+'including the granting of a licence' in clause (v) of Explanation 2 to section 9(1)( vi), of the Income-tax
+Act would necessarily mean a licence in which transfer is made of an interest in rights 'in respect of'
+copyright, namely , that there is a parting with an interest in any of the rights mentioned in section 14(b)
+read with section 14(a) of the Copyright Act. To this extent, there will be no difference between the
+position under the DT AA and Explanation 2  to section 9(1)( vi) of the Income-tax Act. [Para 73]
+■ It is therefore difficult to accept argument that Explanation  4 does not expand the scope of the expression
+'royalty' as contained in Explanation  2 to section 9(1)( vi) of the Income-tax Act [Para 76]
+■ It is equally difficult to accept the Additional Solicitor General's submission that Explanation  4 to section
+9(1)( vi) of the Income-tax Act is clarificatory of the position as it always stood, since 1-6-1976, for which
+he strongly relied upon CBDT  Circula r No. 152, dated 27-11-1974. Quite obviously , such a circular
+cannot apply as it would then be explanatory of a position that existed even before section 9(1)( vi) was
+actually inserted in the Income-tax Act vide the Finance Act, 1976. Quite clearly , Explanation  4 cannot
+apply to any right for the use of or the right to use computer software even before the term 'computer
+software' was inserted in the statute. Likewise, even qua section 2(o) of the Copyright Act, the term12/16/25, 11:56 AM
+3/83
+'computer software' was introduced for the first time in the definition of a literar y work, and defined under
+section 2(f fc) only in 1994 vide Act 38 of 1994 [Para 77]
+■ Furthermore, it is equally ludicrous for the aforesaid amendment which also inserted Explanation  6 to
+section 9(1)( vi), of the Income-tax Act to apply with effect from 1-6-1976, when technology relating to
+transmission by a satellite, optic fibre or other similar technology , was only regulated by the Parliament
+for the first time through the Cable Television Networks (Regulation) Act, 1995, much after 1976. For all
+these reasons, it is clear that Explanation  4 to section 9(1)( vi) of the Income-tax Act is not clarificato ry of
+the position as on 1-6-1976, but in fact, expands that position to include what  is stated therein, vide the
+Finance Act, 2012. [Para 78]
+Whether persons liable to deduct TDS under section 195 of the Income-tax Act can be held liable to deduct
+such sums at a time when Explanation  4 was factually not on the statute book, all deductions liable to be
+made and the assessment years in question being prior to the year 2012
+■ This question is answered by two Latin maxims, lex non cogit ad impossibilia, i.e., the law does not
+demand the impossible and impotentia excusat legem, i.e., when there is a disability that makes it
+impossible to obey the law, the alleged disobedience of the law is excused. Recently , in the judgment in
+Arjun Panditrao Khotkar  v. Kailash Kushanrao Gorantyal  [Civil Appeal No. 20825 of 2017, dated 14-7-
+2020], this Court applied the said maxims in the context of the requirement of a certificate to produce
+evidence by way of electronic record under section 65B of the Evidence Act, 1872 and held that having
+taken all possible steps to obtain the certificate and yet being unable to obtain it for reasons beyond his
+control, the respondent in the fact of the case, was relieved of the mandatory obligation to furnish a
+certificate. [Para 81]
+■ It is thus clear that the 'person' mention ed in section 195 of the Income-tax Act cannot be expected to do
+the impossible, namely , to apply the expanded definition of 'royalty' inserted by Explanation 4 to section
+9(1)( vi), of the Income-tax Act for the assessm ent years in question, at a time when such Explanation  was
+not actually and factually in the statute. [Para 85]
+■ When, under a non-exclusive licence, an end-user gets the right to use computer software in the form of a
+CD, the end-user only receives a right to use the software and nothing more. The end-user does not get
+any of the rights that the owner contin ues to retain under section 14(b) of the Copyright Act read with
+sub-section (a)(i)-(vii) thereof. Thus, the conclusion that when computer software is licensed for use
+under an EULA, what is also licensed is the right to use the copyright embedded therein, is wholly
+incorrect. The licence for the use of a product under an EULA  cannot be constr ued as the licence spoken
+of in section 30 of the Copyright Act, as such EULA  only imposes restrictive conditions upon the end-user
+and does not part with any interest relatable to any rights mentioned in sectio ns 14(a) and 14(b) of the
+Copyright Act. [Para 97]
+■ The conclusions that can be derived on a reading of the some judgments are as follows:
+(i) Copyright is an exclusive right, which is negative in nature, being a right to restrict others from
+doing certain acts.
+(ii) Copyright is an intangible, incorporeal right, in the nature of a privilage, which is quite independent
+of any material substance. Ownership of copyright in a work is different from the ownership of the
+physical material in which the copyright ed work may happen to be embodied. An obvious example
+is the purchaser of a book or a CD/DVD, who becomes the owner of the physical article, but does
+not become the owner of the copyright inherent in the work, such copyright remaining exclusively
+with the owner .
+(iii) Parting with copyright entails parting with the right to do any of the acts mentio ned in section 14 of
+the Copyright Act. The transfer of the material substance does not, of itself, serve to transfer the
+copyright therein. The transfer of the ownership of the physical substance, in which copyright
+subsists, gives the purchaser the right to do with it whatever he pleases, except the right to
+reproduce the same and issue it to the public, unless such copies are already in circulation, and the
+other acts mentioned in section 14 of the Copyright Act.
+(iv) A licence from a copyright owner , conferring no proprietary interest on the licensee, does not entail
+parting with any copyright, and is different from a licence issued under section 30 of the Copyright12/16/25, 11:56 AM
+4/83
+Act, which is a licence which grants the licensee an interest in the rights mentioned in section 14(a)
+and 14(b) of the Copyright Act. Where the core of a transaction is to authorize the end-user to have
+access to and make use of the 'licensed' computer software product over which the licensee has no
+exclusive rights, no copyright is parted  with and consequently , no infringemen t takes place, as is
+recognized by section 52(1)( aa) of the Copyright Act. It makes no difference whether the end-user
+is enabled to use computer software that is customized to its specifications or otherwise.
+(v) A non-exclusive, non-transferable licen ce, merely enabling the use of a copyri ghted product, is in
+the nature of restrictive conditions which are ancillary to such use, and cannot be construed as a
+licence to enjoy all or any of the enumerated rights mentioned in section 14 of the Copyright Act,
+or created any interest in any such rights so as to attract section 30 of the Copyright Act.
+(vi) The right to reproduce and the right to use computer software are distinct and separate rights, as has
+been recognized in State Bank of India  v. Collector of Customs 2000 taxmann.com 1053 (SC) , the
+former amounting to parting with copyright and the latter , in the context of non-exclusive EULAs,
+not being so. [Para 1 17]
+■ Consequently , the view contained in the determinations of the AAR in Dassault Systems, K.K., In re
+[20210] 188 Taxman 223/322 ITR 125 (AAR – New Delhi) and Geoquest Systems B.V., In re [2010] 193
+Taxman 81/327 ITR 1 (AAR - New Delhi)  and the judgments of the High Court of Delhi in DIT v.
+Ericsson A.B., [2011] 16 taxmann.com 371/[2012] 204 Taxman 192/343 ITR 470, DIT v. Nokia Networks
+OY [2012] 25 taxmann.com 225/[2013] 212 Taxman 68/358 ITR 259 (Delhi) DIT v. Infrasoft Ltd. [2013]
+39 taxmann.com 38/[2014] 220 Taxman 273 (Delhi) CIT v. ZTE Corporation [2017] 77 taxmann.com
+304/245 Taxman 252/392 ITR 80 (Delhi)  state the law correctly and have this Court's express approval.
+[Para 1 18]
+■ The language of section 14(b)(ii) of the Copyright Act makes it clear that it is the exclusive right of the
+owner to sell or to give on commercial  rental or offer for sale or for commercial rental 'any copy of the
+computer programme'. Thus, a distributor who purchases computer software in material form and resells it
+to an end-user cannot be said to be within the scope of the aforesaid provision. The sale or commercial
+rental spoken of in section 14(b)(ii) of the Copyright Act is of 'any copy of a computer programme',
+making it clear that the section would only apply to the making of copies of the computer programme and
+then selling them, i.e., reproduction of the same for sale or commercial rental. [Para 142]
+Conclusion
+■ Given the definition of royalties contained in article 12 of the DTAAs (between India and Singapore), it is
+clear that there is no obligation on the persons mentioned in section 195 of the Income-tax Act to deduct
+tax at source, as the distribution agreements/EULAs in the facts of these cases do not create any interest or
+right in such distributors/end-users, which would amount to the use of or right to use any copyright. The
+provisions contained in the Income-tax Act (section 9(1)( vi), along with Explanations  2 and 4 thereof),
+which deal with royalty , not being more beneficial to the assessees, have no application in the facts of
+these cases.
+■ Thus, the amounts paid by resident Indian end-users/distributors to non-resident computer software
+manufacturers/suppliers, as consideration for the resale/use of the computer software through
+EULAs/distribution agreements, is not the payment of royalty for the use of copyright in the computer
+software, and that the same does not give rise to any income taxable in India, as a result of which the
+persons referred to in section 195 of the Income-tax Act were not liable to deduct any TDS under section
+195 of the Income-tax Act. [Paras 168 & 169]

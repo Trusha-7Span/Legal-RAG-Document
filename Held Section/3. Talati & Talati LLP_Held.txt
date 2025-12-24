@@ -1,0 +1,87 @@
+HELD
+ 
+■ Section 148 is a procedure provided for issuance of notice in all cases of assess ment, re-assessment or re-
+computation under section 147, which empowers the Assessing Officer to assess and reassess where any
+income chargeable to tax, in the case of an assessee, who has escaped assessmen t for any assessment year,
+subject to the provisions of sections 148 to 153. It may also be useful to note that section 148A  inserted by
+the Finance Act, 2021 with effect from 1-4-2021 provides for inquiry , opportunity of hearing to the
+assessee before issuance of notice under section 148. [Para 20]
+■ A reading of the proviso to section 148A  shows that the requirements to conduct an inquiry with the prior
+approval of the specified authority; provide opportunity of hearing to the asses see; consider reply of the
+assessee furnished in response to the show-cause notice; and decide on the basis of the material available
+on record including reply to the assessee, whether or not the case is fit to issue a notice under section 148,
+by passing an order , is not applicable in a case of search and seizure under section 132. The proviso will
+be attracted in a case where the Assessin g Officer on the information received by him as a result of search
+under section 132, or requisitioned under section 132A, is satisfied, with the prior approval of the
+Principal Commissioner or Commissioner that any money , bullion etc., or any books of
+account/documents etc. seized in a searc h under section 132 or requisitioned under section 132A; in case
+of any other person on or after 1-4-2021, belongs to, pertain(s) to; or any information contained therein,
+relate to, the assessee. [Para 21]
+■ From a further reading of Explanation 1 and Explanation 2 attached to section 148, it is clear that the
+provisions under section 148 for issuance of notice before making assessment, re-assessment or re-
+computation under section 147 operate in two dif ferent ways. [Para 22]
+■ The provisions contained in Explanation 1 shows that the information with the Assessing Officer for the
+purpose of section 148, which suggests  that the income chargeable to tax has escaped assessment under
+the Explanation would mean: (i) any information in the case of the assessee, for the relevant assessment
+year, in accordance with the risk management strategy formulated by the Board from time to time; or (ii)
+any audit objection to the effect that the assessment in the case of the assessee for the relevant assessment
+year has not been made in accordance with the provisions of this Act; or (iii) any information received
+under an agreement referred to in section 90 or section 90A; or (iv) any informa tion made available to the
+Assessing Officer under the scheme notified under section 135A; or (v) any information which requires
+action in consequence of the order of a Tribunal or a Court. On the contrary , Explanation 2 which deals
+with the information received during search and seizure operations under section 132 requires fulfilment
+of pre-requisites conditions, noted hereinbefore, in the submission of the revenue. [Para 23]
+■ The concept of Risk Management Strategy formulated by the Board is incorporated in Clause (i) of
+Explanation 1, as also specified in Clause 3 of the notification dated 29-3-2022 issued by the Central
+Government in accordance with the provisions of Explanation 1 clause (i) to section 148, which is not
+applicable in the case of information received during the course of search and seizure under section 132.
+[Para 24]
+■ From the language employed in the Explanation 1 and Explanation 2 to section 148, it is opined that the
+method of automated allocation, i.e. for random allocation of cases throug h algorithm, or by using
+suitable technological tools, including artificial intelligence and machine learning, in accordance with risk
+management strategy formulated by the Board, as referred to in Explanation 1 clause (i) to section 148,
+for issuance of notice under section 148 in a faceless manner , as per the schem e framed vide notification
+dated 29-3-2022, cannot be applied to the case of search and seizure under section 132, where the
+Jurisdictional Assessing Officer (JAO) is required to record his satisfaction on the basis of the material for
+affirmation of opinion in an honest and bona fide  manner . [Para 25]
+■ There is substance in the submission of the revenue that recording of satisfaction by the Assessing Officer
+on a perusal of the information received by him as a result of search and seizure operation under section
+132, requires application of human mind, inasmuch as, reasons affirmed on the part of the Satisfaction
+Note may also become subject matter of scrutiny by the Court in a case of challenge, where the Court in12/16/25, 2:19 PM
+2/10
+exercise of power of judicial review may examine as to whether they are actuated by mala fides or passed
+on extraneous or irrelevant considerations. [Para 26]
+■ From the above, by reading all the relevant provisions of the Act as also the notification dated 29-3-2022
+issued by the Central Government framing scheme for "E-Assessment of Income Escaping Assessment"
+under sub-sections (1) and (2) of section 151A, it is concluded that the challenge to the notice under
+section 148 dated 22-3-2024 for assessment year 2021-22 on the sole premise that the said notice could
+have been issued only through autom ated allocation in faceless manner and not by Jurisdictional
+Assessing Of ficer (JAO), cannot be sustained. [Para 28]
+■ The submission of the assessee that the Jurisdictional Assessing Officer (JAO) was not competent to issue
+the impugned notice under section 148 in a case of search and seizure under section 132, are not
+convincing. [Para 29]
+■ Moreover , section 151A  contemplates framing of the scheme by the Central Government by notification
+in the official Gazette, even for the purpose of issuance of notice under section 148 in the case of re-
+assessment or sanction for issue of such notice under section 151, with the aim to impart greater
+efficiency , transparency and accountability by eliminating the interface between the income tax authority
+and the assessee or any other person to the extent technologically feasible. [Para 30]
+■ The feasibility of implying technology for the process, therefore, would be relevant. There may be a
+situation, where a scheme may be framed by the Central Government for issuance of the notice under
+section 148 even in the case of Search and Seizure under section 132, so as to meet out the expectations of
+the legislature under section 151A, to impart greater efficiency , transparency and accountability by
+applying artificial intelligence, technological innovations, etc., but as of now, from a careful reading of the
+notification dated 29-3-2022, along with the statutory provisions, it is found that the aforesaid notification
+does not cover a case where notice under section 148 is issued by the Jurisdictional Assessing Officer
+(JAO) the information received by him in the matter of search and seizure under section 132, or
+requisitioned under section 132A. [Para 31]
+■ The challenge to the impugned notice on the ground of lack of jurisdiction of the Jurisdictional Assessing
+Authority is, accordingly , turned down. [Para 32]
+■ However , it is further noted that two Satisfaction Notes for assessment years 2021-22 and 2022-23 dated
+22-3-2024 and 7-3-2024 have been supplied to the assessee in the compilation submitted on behalf of the
+revenue. It was also placed by the revenue that after issuance of the impugned notice under section 148,
+the instant case has proceeded to the stage of issuance of the notice under section 142(1). The said notice
+has been issued by the Verification Unit of the Faceless Assessment Centre. [Para 33]
+■ Therefore, it is found fit and proper to dispose of the present petitions with the observation that the
+assessees may pursue his remedy matter s before the Competent Authority and may ask for virtual hearing,
+if the need be, to participate in the proceedings, which have to be brought to their logical end, strictly in
+accordance with law . [Para 34]

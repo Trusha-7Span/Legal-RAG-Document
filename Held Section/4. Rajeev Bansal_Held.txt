@@ -1,0 +1,232 @@
+HELD
+ 
+Reading T OLA  into the Income-tax Act
+■ The ingredients of the first proviso to section 149(1)( b) could be broken down for analysis as follows :
+(i) no notice under section 148 of the new regime can be issued at any time for an assessment year
+beginning on or before 1-4-2021;12/16/25, 11:59 AM
+2/43
+(ii) if it is barred at the time when the notice  is sought to be issued because of the "time limits specified
+under the provisions of" section 149(1)( b) of the old regime.
+Thus, a notice could be issued under section 148 of the new regime for assessment year 2021-22 and before
+only if the time limit for issuance of such notice continued to exist under section 149(1)( b) of the old regime.
+[Para 46]
+■ Notices have to be judged according to the law existing on the date the notice is issued. Section 149 of the
+old regime primarily provided two time limits:
+(i) four years for all situations and
+(ii) beyond four years and within six years if the income chargeable to tax which escaped assessment
+amounted to Rupees one lakh or more.
+After 1-4-2021, the time limits prescrib ed under the new regime came into force. The ordinary time limit of
+four years was reduced to three years. Therefore, in all situations, reassessment notices could be issued under
+the new regime if not more than three years have elapsed from the end of the relevant assessment year. [Para
+48]
+■ The first proviso to section 149(1)( b) requires the determination of whethe r the time limit prescribed
+under section 149(1)( b) of the old regime continues to exist for the assessment year 2021-22 and before.
+Resultantly , a notice under section 148 of the new regime cannot be issued if the period of six years from
+the end of the relevant assessment year has expired at the time of issuance of the notice. This also ensures
+that the new time limit of ten years prescribed under section 149(1)( b) of the new regime applies
+prospectively . Without the proviso to section 149(1)( b) of the new regime, the Revenue could  have had
+the power to reopen assessments for the year 2012-13 if the escaped assessment amounted to Rs. 50 lakhs
+or more. The proviso limits the retrospective operation of section 149(1)( b) to protect the interests of the
+assessees. [Para 49]
+■ Another important change under section 149(1)( b) of the new regime is the increase in the monetary
+threshold from Rs. 1 lakh to Rs. 50 lakhs. The old regime prescribed a time limit of six years from the end
+of the relevant assessment year if the income chargeable to tax which escaped assessment was more than
+Rs. 1 lakh. In comparison, the new regime increases the time limit to ten years if the escaped assessment
+amounts to more than Rs. 50 lakhs. [Para 50]
+■ Given section 149(1)( b) of the new regime, reassessment notices could be issued after three years only if
+the income chargeable to tax which escaped assessment is more than Rs. 50 lakhs. The proviso to section
+149(1)( b) limits the retrospectivity of that provision with respect to the time limits specif ied under section
+149(1)( b) of the old regime. [Para 51]
+TOLA  can extend the time limit till 31-6-2021
+■ TOLA  extended the time limits for completion or compliance of certain actions under the specified Act,
+which fell for completion during the COVID-19 outbreak. The use of the expression 'any' in section 3(1)
+indicates that the relaxation applies to 'all' or 'every' action whose time limit falls for completion from 20-
+3-2020 to 31-3-2021. Section 3(1) is only concerned with the performance of actions contemplated under
+the provisions of the specified Acts. Consequently , the amendment or substitution of a provision under the
+specified Acts will not affect the application of TOLA, so long as the action contemplated under the
+provision falls for completion during the period specified by TOLA, that is, 20-3-2020 to 31-3-2021.
+[Para 63]
+■ After 1-4-2021, the Income-tax Act has to be read along with the substituted provisions. The substituted
+provisions apply retrospectively for past assessment years as well. On 1-4-2021, TOLA  was still in
+existence, and the revenue could not have ignored the application of TOLA  and its notifications.
+Therefore, for issuing a reassessment notice under section 148 after 1-4-2021, the revenue would still
+have to look at: (i) the time limit specified under section 149 of the new regime; and (ii) the time limit for
+issuance of notice as extended by TOLA  and its notifications. The revenue cannot extend the operation of
+the old law under TOLA, but it can certainly benefit from the extended time limit for completion of
+actions falling for completion between 20-3-2020 and 31-3-2021. [Para 68]12/16/25, 11:59 AM
+3/43
+■ For instance, section 149(1)( a) of the new regime specified the time limit of three years from the end of
+the relevant assessment year for reopeni ng of the assessment. For assessment year 2017-18, the three year
+period expired on 31-3-2021. The expir y of time fell within the time period contemplated by section 3 of
+TOLA  read with its notifications. Resultantly , the revenue had time until 30-6-2021 to issue a
+reassessment notice for assessment year 2017-18 under section 149(1)( a). This harmonious reading gives
+effect to the legislative intention of both the Income-tax Act and TOLA. Moreover , sections 147 to 151
+are machinery provisions. Therefore, they must be given an interpretation that is consistent with the object
+and purpose of the Income-tax Act. [Para 69]
+■ Section 3(1) of TOLA  contains a non obstante  clause: 'notwithstanding anything contained in the
+specified Act.' The legislative intention of including the non obstante  clause is to remove any obstacles
+which may come in the way of the operation of the extension of the time limit till 31-3-2021 or such other
+date after 31-3-2021 specified by the Central Government. The purpose is to ensure that the full benefit of
+the relaxation should be provided to both the assessee and the Revenue to tide over the difficulties caused
+by the COVID-19 pandemic. [Para 71]
+■ The non obstante  clause in section 3(1) has to be read as controlling the provisions of the specif ied Acts,
+including the provisions of the Income-tax Act. In the context of the issuance of a reassessment notice, the
+non obstante  clause will override the provisions of the Income-tax Act in case of any direct conflict or
+inconsistency . Section 3(1) overrides section 149 only to the extent of relaxing the time limit for issuance
+of reassessment notice under section 148. The time limit for issuance of a reassessment notices, which fall
+for completion between 20-3-2020 and 31-3-2021, has been extended till 30-6-2021. However , the non
+obstante  clause under section 3(1) of TOLA  will operate neither to extend the time limit of three years
+from the end of the relevant assessment year under section 149(1)( a) of the new regime nor to extend the
+time limit of six years from the end of the relevant assessment years under section 149(1)( b) of the old
+regime. The non obstante  clause ensures that the revenue has additional time beyond the statutory
+stipulated time limit to complete or comply with the formalities given the administrative difficulties that
+arose due to the COVID-19 pandemic. [Para 72]
+Sanction of the specified authority
+■ After 1-4-2021, the new regime has specified different authorities for granting sanctions under section
+151. The new regime is beneficial to the assessee because it specifies a higher level of authority for the
+grant of sanctions in comparison to the old regime. Therefore, in terms of Union of India  v. Ashish
+Agarwal [2022] 138 taxmann.com 64/286 Taxman 183/444 ITR 1 (SC) , after 1-4-2021, the prior approval
+must be obtained from the appropriate authorities specified under section 151 of the new regime. [Para
+75]
+■ Grant of sanction by the appropriate authority is a pre-condition for the Assessing Officer to assume
+jurisdiction under section 148 to issue a reassessment notice. Section 151 of the new regime does not
+prescribe a time-limit within which a specified authority has to grant sanction. Rather , it links up the time
+limits with the jurisdiction of the authority to grant sanction. Section 151(ii) of the new regime prescribes
+a higher level of authority if more than three years have elapsed from the end of the relevant assessment
+year. Thus, non-compliance by the Assessing Officer with the strict time limits  prescribed under section
+151 af fects their jurisdiction to issue a notice under section 148. [Para 76]
+■ The Parliament enacted TOLA  to ensure that the interests of the revenue are not defeated because the
+Assessing Officer could not comply with the pre-conditions due to the difficulties that arose during the
+COVID-19 pandemic. Section 3(1) of TOLA  relaxes the time-limit for compli ance with actions that fall
+for completion from 20-3-2020 to 31-3-2021. TOLA  will accordingly extend the time-limit for the grant
+of sanction by the authority specified under section 151. The test to determine whether TOLA  will apply
+to section 151 of the new regime is this: if the time-limit of three years from the end of an assessment year
+falls between 20-3-2020 and 31-3-2021, then the specified authority under section 151(i) has an extended
+time till 30-6-2021 to grant approval. In the case of section 151 of the old regim e, the test is: if the time-
+limit of four years from the end of an assessment year falls between 20-3-202 0 and 31-3-2021, then the
+specified authority under section 151(2) has time till 31-3-2021 to grant approval. The time-limit for
+section 151 of the old regime expires on 31-3-2021 because the new regime comes into effect on 1-4-
+2021. [Para 77]12/16/25, 11:59 AM
+4/43
+The Scope of Ashish Agarwal extended  to all the reassessment notices issued between 1-4-2021 and 30-6-
+2021 under the old regime
+■ In Ashish Agarwal  (supra ), this Court: (i) upheld the judgments of the High Courts; and (ii) deemed the
+notices issued under section 148 of the old regime as show cause notices issued under section 148A( b) of
+the new regime. By agreeing with the judgments of the High Courts, this Court laid down the law that the
+provisions of the new regime will be applicable for all the reassessment notices issued under section 148
+after 1-4-2021. As a result of this holdi ng, all the reassessment notices issued in terms of section 148 of
+the old regime would have been declared invalid. Therefore, this Court deemed the reassessment notices
+issued under the old regime after 1-4-2021 as show cause notices issued under section 148A( b) of the new
+regime. [Para 89]
+Effect of the legal fiction created in Ashish Agarwal (supra)
+■ Before proceeding, it is important to bear in mind three important periods:
+i. The period up to 30-6-2021 - this perio d is covered by the provisions of the Income-tax Act read
+with TOLA;
+ii. The period from 1-7-2021 to 3-5-2022 - the period before the decision of this Court in Ashish
+Agarwal  (supra ); and
+iii. The period after 4-5-2022 - the period after the decision of this Court in Ashish Agarwal  (supra ).
+This period is covered by the directions issued by this Court in Ashish Agarwal  (supra ) and the
+provisions of the Income-tax Act read with TOLA. [Para 94]
+■ In Ashish Agarwal  (supra ), this Court created a legal fiction by deeming the section 148 notices issued
+under the old regime as show cause notices under section 148A( b) of the new regime. The purpose of the
+legal fiction was to enable the revenue 'to proceed further with the reassessment proceedings as per the
+substituted provisions' of the Income-tax Act. Accordingly , all the reassessment notices issued under the
+old regime were deemed to always have been show cause notices issued under section 148A( b) of the new
+regime. The fiction replaced section 148 notices with section 148A( b) notices with effect from the date
+when the notices under section 148 of the old regime were issued between 1-4-2021 and 30-6-2021, as the
+case may be. This ensured the continuance of the reassessment process initiated by the revenue from 1-4-
+2021 to 30-6-2021 under the old regime. [Para 99]
+■ Importantly , this Court in Ashish Agarwal  (supra ) did not quash the reassessment notices issued under
+section 148 of the old regime. [Para 100]
+■ The combined effect of the legal fiction and the directions issued by this Court in Ashish Agarwal  (supra )
+is that the show cause notices that were deemed to have been issued during the period between 1-4-2021
+and 30-6-2021 were stayed till the date of supply of the relevant information and material by the
+Assessing Officer to the assessee. After the supply of the relevant material and information to the
+assessee, time begins to run for the assessees to respond to the show cause notices. [Para 106]
+■ The third proviso to section 149 allows the exclusion of time allowed for the assessees to respond to the
+show cause notice under section 149A( b) to compute the period of limitation. The third proviso excludes
+'the time or extended time allowed to the assessee.' Resultantly , the entire time allowed to the assessee to
+respond to the show cause notice has to be excluded for computing the period of limitation. In Ashish
+Agarwal  (supra ), this Court provided two weeks to the assessees to reply to the show cause notices. This
+period of two weeks is also liable to be excluded from the computation of limitation given the third
+proviso to section 149. Hence, the total time that is excluded for computation of limitation for the deemed
+notices is: (i) the time during which the show cause notices were effectively stayed, that is, from the date
+of issuance of the deemed notice between 1-4-2021 and 30-6-2021 till the supply of relevant information
+or material by the Assessing Officers to the assessees in terms of the directions in Ashish Agarwal  (supra );
+and ( ii) two weeks allowed to the assessees to respond to the show cause notices. [Para 107]
+Interplay of Ashish Agarwal (supra) with T OLA
+■ The Income-tax Act read with TOLA  extended the time-limit for issuing reassessment notices under
+section 148, which fell for completion from 20-3-2020 to 31-3-2021, till 30-6-2021. All the reassessment12/16/25, 11:59 AM
+5/43
+notices under challenge in the present appeals were issued from 1-4-2021 to 30-6-2021 under the old
+regime. Ashish Agarwal  (supra ) deemed these reassessment notices under the old regime as show cause
+notices under the new regime with effect from the date of issuance of the reasse ssment notices. The effect
+of creating the legal fiction is that this Court has to imagine as real all the consequences and incidents that
+will inevitably flow from the fiction. Therefore, the logical effect of the creation of the legal fiction by
+Ashish Agarwal  (supra ) is that the time surviving under the Income-tax Act read with TOLA  will be
+available to the revenue to complete the remaining proceedings in furtheranc e of the deemed notices,
+including issuance of reassessment notices under section 148 of the new regime. The surviving or balance
+time-limit can be calculated by computing the number of days between the date of issuance of the deemed
+notice and 30-6-2021. [Para 108]
+■ If this Court had not created the legal fiction and the original reassessment notices were validly issued
+according to the provisions of the new regime, the notices under section 148 of the new regime would
+have to be issued within the time-limits extended by TOLA. As a corollary , the reassessment notices to be
+issued in pursuance of the deemed notices must also be within the time-limit surviving under the Income-
+tax Act read with TOLA. This construction gives full effect to the legal fiction created in Ashish Agarwal
+(supra ) and enables both the assessees and the revenue to obtain the benefit of all consequences flowing
+from the fiction. [Para 109]
+■ The effect of the creation of the legal fiction in Ashish Agarwal  (supra ) was that it stopped the clock of
+limitation with effect from the date of issuance of section 148 notices under the old regime [which is also
+the date of issuance of the deemed notices]. As discussed in the preceding segm ents of this judgment, the
+period from the date of the issuance of the deemed notices till the supply of relevant information and
+material by the Assessing Officers to the assessees in terms of the directions issued by this Court in Ashish
+Agarwal  (supra ) has to be excluded from the comput ation of the period of limitation. Moreover , the
+period of two weeks granted to the assessees to reply to the show cause notices must also be excluded in
+terms of the third proviso to section 149. [Para 1 10]
+■ The clock started ticking for the revenue only after it received the response of the assessees to the show
+causes notices. After the receipt of the reply , the Assessing Officer had to perform the following
+responsibilities:
+i. consider the reply of the assessee under section 149A( c);
+ii. take a decision under section 149A( d) based on the available material and the reply of the assessee;
+and
+iii. issue a notice under section 148 if it was a fit case for reassessment.
+Once the clock started ticking, the Assessing Officer was required to complet e these procedures within the
+surviving time-limit. The surviving time-limit, as prescribed under the Income-tax Act read with TOLA, was
+available to the Assessing Officers to issue the reassessment notices under section 148 of the new regime.
+[Para 1 11]
+■ In the instant appeals, the reassessment notices pertain to the assessment years 2013-14 to 2017-18. To
+assume jurisdiction to issue notices under section 148 with respect to the relevant assessment years, an
+Assessing Officer has to: (i) issue the notices within the period prescribed under section 149(1) of the new
+regime read with TOLA; and (ii) obtain the previous approval of the authority specified under section
+151. A notice issued without complying with the pre-conditions is invalid as it affects the jurisdiction of
+the Assessing Officer. Therefore, the reassessment notices issued under section 148 of the new regime,
+which are in pursuance of the deemed notices, ought to be issued within the time-limit surviving under the
+Income-tax Act read with TOLA. A reassessment notice issued beyond the surviving time-limit will be
+time-barred. [Para 1 13]
+Conclusions
+■ In view of the above discussion, it is concluded that :
+(a) After 1-4-2021, the Income-tax Act has to be read along with the substituted provisions;12/16/25, 11:59 AM
+6/43
+(b) TOLA  will continue to apply to the Income-tax Act after 1-4-2021 if any action or proceeding
+specified under the substituted provisions of the Income-tax Act falls for completion between 20-3-
+2020 and 31-3-2021;
+(c) Section 3(1) of TOLA  overrides section 149 only to the extent of relaxing the time-limit for
+issuance of a reassessment notice under section 148;
+(d) TOLA  will extend the time-limit for the grant of sanction by the authority specified under section
+151. The test to determine whether TOLA  will apply to section 151 of the new regime is this: if the
+time-limit of three years from the end of an assessment year falls between 20-3-2020 and 31-3-
+2021, then the specified authority under section 151(i) has extended time till 30-6-2021 to grant
+approval;
+(e) In the case of section 151 of the old regime, the test is: if the time-limit of four years from the end
+of an assessment year falls between 20-3-2020 and 31-3-2021, then the specified authority under
+section 151(2) has extended time till 31-3-2021 to grant approval;
+(f) The directions in Ashish Agarwal  (supra ) will extend to all the ninety thousan d reassessment
+notices issued under the old regime during the period 1-4-2021 and 30-6-2021;
+(g) The time during which the show cause notices were deemed to be stayed is from the date of
+issuance of the deemed notice between 1-4-2021 and 30-6-2021 till the supply of relevant
+information and material by the Assessin g Officers to the assessees in terms of the directions issued
+by this Court in Ashish Agarwal  (supra ), and the period of two weeks allowed  to the assessees to
+respond to the show cause notices; and
+(h) The Assessing Officers were required to issue the reassessment notice under section 148 of the new
+regime within the time-limit surviving under the Income-tax Act read with TOLA. All notices
+issued beyond the surviving period are time barred and liable to be set aside. [Para 1 14]
